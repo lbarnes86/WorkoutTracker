@@ -19,7 +19,7 @@
 
 ## Description
 
->This application is a workout/fitness tracker that allows the user to create, track, and view daily workouts. The user is given the option to log multiple workouts a day, and the app tracks the name, type, weight, sets, reps, and duration if it is a resistance exercise, and tracks the distance travelled if it is cardio.
+>This application is a workout/fitness tracker that allows the user to create, track, and view daily workouts. The user is given the option to log multiple workouts a day, and the app tracks the name, type, weight, sets, reps, duration, and distance.
 
 ## Usage
 
@@ -29,11 +29,11 @@ In this application, the user can keep track of their progress by logging their 
 ```
 
 ## Dependencies
-- [Inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
-- [MySQL](https://www.npmjs.com/package/mysql)
+- [Mongo](https://www.npmjs.com/package/mongodb)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [Express](https://www.npmjs.com/package/express)
+- [Node](https://nodejs.org/en/)
 - [JavaScript](https://www.javascript.com/) 
-- [node](https://nodejs.org/en/)
-
 
 ## Screenshots
 
@@ -42,7 +42,11 @@ In this application, the user can keep track of their progress by logging their 
 
 ## Contributors
 
-- Lloyd F Barnes 
+[![GitHub license](https://img.shields.io/badge/Made%20by-Lloyd%20Barnes-ab8c9b?style=flat&logo=github)](https://github.com/lbarnes86)
 
 ## License
-© ISC, 2020
+
+[![license](https://img.shields.io/badge/License-ISC-brightgreen.svg)](https://choosealicense.com/licenses/isc/)
+<br />
+
+Copyright© 2020 [Lloyd Barnes](https://lbarnes86.github.io/updated_Portfolio/)
