@@ -55,3 +55,8 @@ In this application, the user can keep track of their progress by logging their 
 <br />
 
 Copyright© 2020 [Lloyd Barnes](https://lbarnes86.github.io/updated_Portfolio/)
+
+![License](https://img.shields.io/badge/license-MIT-green")
+
+
+Copyright© 2021 [Lloyd Barnes](https://lbarnes86.github.io/react-portfolio/)
